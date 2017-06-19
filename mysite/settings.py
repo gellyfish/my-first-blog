@@ -24,7 +24,7 @@ SECRET_KEY = '!_h=h35t6zc-va8+-gz5@m&8h@72cf^+*2t*p7*bnm1w90%@15'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+ 
 ALLOWED_HOSTS = ['127.0.0.1', 'jellyfish.pythonanywhere.com']
 
 
